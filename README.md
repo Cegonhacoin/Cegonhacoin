@@ -1,7 +1,7 @@
 ## Olá eu sou a Cegonha Coin, esse é o meu perfil!
 
 [![Blog](https://img.shields.io/website?label=cegonhacoin.com&style=for-the-badge&url=https://cegonhacoin.com/)](https://cegonhacoin.com)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/cegonhacoin@gmail.com)
+
 
 
 <div align="center">
