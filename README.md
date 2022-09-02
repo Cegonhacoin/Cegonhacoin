@@ -1,5 +1,9 @@
 ## Olá eu sou a Cegonha Coin, esse é o meu perfil!
 
+[![Blog](https://img.shields.io/website?label=cegonhacoin.com&style=for-the-badge&url=https://cegonhacoin.com/)](https://cegonhacoin.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/cegonhacoin@gmail.com)
+
+
 <div align="center">
   <a href="https://github.com/Cegonhacoin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cegonhacoin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
