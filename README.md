@@ -1,4 +1,4 @@
-## Olá eu sou a Cegonha Coin, esse é o meu perfil!
+## Hello I'm Cegonha Coin, this is my profile!
 
 [![Blog](https://img.shields.io/website?label=cegonhacoin.com&style=for-the-badge&url=https://cegonhacoin.com/)](https://cegonhacoin.com)
 
