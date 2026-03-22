@@ -1,6 +1,6 @@
 ## Hello I'm Stork Chain, this is my profile!
 
-[![Blog](https://img.shields.io/website?label=cegonhacoin.com&style=for-the-badge&url=https://cegonhacoin.com/)](https://www.storkchain.com)
+[![Blog](https://img.shields.io/website?label=storkchain.com&style=for-the-badge&url=https://wwww.storkchain.com/)](https://www.storkchain.com)
 
 
 
@@ -21,4 +21,4 @@
 </div><br/>
 
   
-  ![snake gif](https://github.com/Cegonhacoin/Cegonhacoin/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Storkchain/Storkchain/blob/output/github-contribution-grid-snake.svg)
