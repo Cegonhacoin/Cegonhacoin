@@ -17,4 +17,3 @@
 </div><br/>
 
   
-  ![snake gif](https://github.com/Storkchain/Storkchain/blob/output/github-contribution-grid-snake.svg)
